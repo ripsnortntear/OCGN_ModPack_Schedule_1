@@ -1,0 +1,24 @@
+{
+  "name": "OCGN_ModPack",
+  "version_number": "0.0.1",
+  "website_url": "https://github.com/ripsnortntear/OCGN_ModPack_Schedule_1",
+  "description": "ModPack for Oldsmar Chaos Gaming Networks Schedule 1",
+  "dependencies": [
+    "LavaGang-MelonLoader-0.7.0",
+    "hostileonion-SimpleMinimap-1.4.0",
+    "Akermi-EmployeeManager-1.6.0",
+    "Salad_f1ng3rs-InstantDeliveries-1.9.6",
+    "Akermi-SharedBeds-1.0.0",
+    "SleepyStew-BigStackz-1.0.3",
+    "UnicornsCanMod-BetterCounterOffer-1.1.0",
+    "NyxisStudio-MultiplayerEnhanced-1.0.1",
+    "SleepyStew-MoreRoutes-1.0.0",
+    "Akermi-EmployeeMover-1.0.2",
+    "bytefrags-LargerStorages-1.0.1",
+    "Tiago-ShelfLabels-1.0.4",
+    "peronteam-EnhanceDealSystems-1.0.8",
+    "CocoIsNotBald-DeliverySaver-1.0.3",
+    "Puffed-BetterChemStationsIl2cpp-1.2.2",
+    "My_man_Spood-Spoods_IL2CPP_Larger_Trash_Can_Radius-1.0.1"
+  ]
+}
