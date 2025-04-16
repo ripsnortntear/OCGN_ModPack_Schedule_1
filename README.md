@@ -1,5 +1,7 @@
 # OCGN ModPack - Schedule 1
 
+![Schedule 1](https://raw.githubusercontent.com/ripsnortntear/OCGN_ModPack_Schedule_1/refs/heads/main/header.jpg)
+
 Welcome to the OCGN ModPack for Schedule 1! This mod pack is designed to enhance your gaming experience in the Oldsmar Chaos Gaming Networks. With a collection of carefully selected mods, you can enjoy new features, improved gameplay mechanics, and a more immersive environment.
 
 ## Table of Contents
