@@ -35,13 +35,17 @@ This mod pack includes the following dependencies:
 - Akermi-EmployeeManager-1.6.0
 - Akermi-EmployeeMover-1.0.2
 - Akermi-SharedBeds-1.0.0
+- assPunk-moreThings-1.1.6
 - bytefrags-LargerStorages-1.0.1
+- BULLETBOT-CustomOrderLimit-1.0.0
 - CocoIsNotBald-DeliverySaver-1.0.3
+- DooDesch-RepairRV-1.0.1
 - GrumpyCrouton-StrongerMultidrag-1.0.0
 - hostileonion-SimpleMinimap-1.4.0
 - LavaGang-MelonLoader-0.7.0
 - My_man_Spood-Spoods_IL2CPP_Larger_Trash_Can_Radius-1.0.1
 - NyxisStudio-MultiplayerEnhanced-1.0.1
+- Oldsmar_Chaos-TrashGrabber_PLUS-1.0.1
 - peronteam-EnhanceDealSystems-1.0.8
 - Puffed-BetterChemStationsIl2cpp-1.2.2
 - Salad_f1ng3rs-InstantDeliveries-1.9.6
