@@ -1,4 +1,4 @@
-# OCGN ModPack - Schedule 1
+# Oldsmar Chaos Gaming Networks ModPack - Schedule 1
 
 ![Schedule 1](https://raw.githubusercontent.com/ripsnortntear/OCGN_ModPack_Schedule_1/refs/heads/main/header.jpg)
 
