@@ -1,5 +1,7 @@
 # Changelog
 
+## [0.0.5] - Updated Version nubmers for mods
+
 ## [0.0.4] - Removed Better Chem Stations as they produce an error.
 
 ## [0.0.3] - Fun Times to be had by all
