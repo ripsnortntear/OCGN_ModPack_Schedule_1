@@ -26,7 +26,7 @@ To install the OCGN ModPack, follow these steps:
 1. Ensure you have [OverWolf with ThunderStore](https://www.overwolf.com/app/thunderstore-thunderstore_mod_manager) installed.
 2. Download the latest release of the OCGN ModPack from the [ModPack Page](https://thunderstore.io/c/schedule-i/p/Oldsmar_Chaos/).
 3. Install using Thunderstore.io
-4. Launch the game and enjoy!
+4. Go to [Usage](#usage) Section.
 
 ## Dependencies
 
