@@ -37,7 +37,7 @@ This mod pack includes the following dependencies:
 - Akermi-SharedBeds-1.0.0
 - bytefrags-LargerStorages-1.0.1
 - CocoIsNotBald-DeliverySaver-1.0.3
-- dentge-BankApp-1.0.0
+- dentge-BankApp-2.0.1
 - GrumpyCrouton-StrongerMultidrag-1.0.0
 - hostileonion-SimpleMinimap-1.4.0
 - LavaGang-MelonLoader-0.7.0
@@ -49,7 +49,7 @@ This mod pack includes the following dependencies:
 - Salad_f1ng3rs-InstantDeliveries-1.9.6
 - SleepyStew-BigStackz-1.0.3
 - SleepyStew-MoreRoutes-1.0.0
-- Tiago-ShelfLabels-1.0.4
+- Tiago-ShelfLabels-1.0.5
 - UnicornsCanMod-BetterCounterOffer-1.1.0
 
 Make sure to install all dependencies for the mod pack to function correctly.
