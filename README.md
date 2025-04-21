@@ -32,28 +32,39 @@ To install the OCGN ModPack, follow these steps:
 
 This mod pack includes the following dependencies:
 
-- animandan-AlwaysShowDistancesOnCompass-1.0.0
-- ArchieN-NoLazyWorkers-1.0.0
-- ArchieN-TopShelfBonus-1.0.0
-- ayteeate-LoadingDockFix-1.0.0
-- BSRmods-CasinoPlus-0.8.7
-- BULLETBOT-CustomOrderLimit-1.0.0
-- BrandS-JustEnoughDrugs-1.3.0
-- cathair-ATMDepositLimitMod-1.0.0
-- DooDesch-RepairRV-1.0.1
-- Estonia-CustomStackSizes-1.0.3
-- GreenCarrot-MoreDeals-1.0.1
-- hostileonion-SimpleMinimap-1.4.0
-- LavaGang-MelonLoader-0.7.0
-- My_man_Spood-Spoods_Mono_Larger_Trash_Can_Radius-1.0.1
-- Puffed-BetterChemStations-1.2.2
-- ScheduleLua-BarsTweaks-1.0.1
-- ScheduleLua-ScheduleLua-0.1.5
-- synq-PlayerNotifications-1.0.0
-- ToPin060-StackBaseUnitShop-2.0.0
-- XO_WithSauce-CashDrops_MONO-1.2.0
+- [Always Show Distances On Compass](https://thunderstore.io/c/schedule-i/p/animandan/AlwaysShowDistancesOnCompass/) / https://www.nexusmods.com/schedule1/mods/245
 
-Make sure to install all dependencies for the mod pack to function correctly.
+- [ATM Deposit Limit Mod](https://thunderstore.io/c/schedule-i/p/cathair/ATMDepositLimitMod/)
+
+- [BetterChemStations](https://thunderstore.io/c/schedule-i/p/Puffed/BetterChemStations/) / https://github.com/trpipher/BetterChemStations
+
+- [Cash Drops](https://thunderstore.io/c/schedule-i/p/XO_WithSauce/CashDrops_MONO/) / https://github.com/XOWithSauce/schedule-cashdrops
+
+- [Casino Plus](https://thunderstore.io/c/schedule-i/p/BSRmods/CasinoPlus/) / https://github.com/bigricksosa/CasinoPlusMono
+
+- [Custom Stack Sizes](https://thunderstore.io/c/schedule-i/p/Estonia/CustomStackSizes/)
+
+- [Just Enough Drugs](https://thunderstore.io/c/schedule-i/p/BrandS/JustEnoughDrugs/) / https://github.com/BrandSEPI/Schedule-JED
+
+- [Loading Dock Fix](https://thunderstore.io/c/schedule-i/p/ayteeate/LoadingDockFix/)
+
+- [Melon Loader](https://thunderstore.io/c/schedule-i/p/LavaGang/MelonLoader/) / https://github.com/LavaGang/MelonLoader
+
+- [More Deals](https://thunderstore.io/c/schedule-i/p/GreenCarrot/MoreDeals/)
+
+- [More Things](https://thunderstore.io/c/schedule-i/p/assPunk/moreThings/) / https://github.com/masterxxstabs/moreThings/tree/master
+
+- [No Lazy Workers](https://thunderstore.io/c/schedule-i/p/ArchieN/NoLazyWorkers/) / https://github.com/archenovalis/NoLazyWorkers
+
+- [Repair RV](https://thunderstore.io/c/schedule-i/p/DooDesch/RepairRV/)
+
+- [Simple Minimap](https://thunderstore.io/c/schedule-i/p/hostileonion/SimpleMinimap/)
+
+- [Spoods Mono Larger Trash Can Radius](https://thunderstore.io/c/schedule-i/p/My_man_Spood/Spoods_Mono_Larger_Trash_Can_Radius/) / https://github.com/My-man-Spood/Schedule1Mods
+
+- [Top Shelf Bonus](https://thunderstore.io/c/schedule-i/p/ArchieN/TopShelfBonus/) / https://github.com/archenovalis/TopShelfBonus
+
+****Make sure to install all dependencies for the mod pack to function correctly.****
 
 ## Usage
 
