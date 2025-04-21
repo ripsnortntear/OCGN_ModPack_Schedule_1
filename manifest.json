@@ -1,15 +1,15 @@
 {
   "name": "OCGN_ModPack",
-  "version_number": "0.1.0",
+  "version_number": "0.1.1",
   "website_url": "https://github.com/ripsnortntear/OCGN_ModPack_Schedule_1",
   "description": "ModPack for Oldsmar Chaos Gaming Networks Schedule 1",
   "dependencies": [
     "animandan-AlwaysShowDistancesOnCompass-1.0.0",
-    "ArchieN-NoLazyWorkers-1.0.0",
+    "ArchieN-NoLazyWorkers-1.0.1",
     "ArchieN-TopShelfBonus-1.0.0",
+    "assPunk-moreThings-1.1.6",
     "ayteeate-LoadingDockFix-1.0.0",
     "BSRmods-CasinoPlus-0.8.7",
-    "BULLETBOT-CustomOrderLimit-1.0.0",
     "BrandS-JustEnoughDrugs-1.3.0",
     "cathair-ATMDepositLimitMod-1.0.0",
     "DooDesch-RepairRV-1.0.1",
@@ -19,9 +19,6 @@
     "LavaGang-MelonLoader-0.7.0",
     "My_man_Spood-Spoods_Mono_Larger_Trash_Can_Radius-1.0.1",
     "Puffed-BetterChemStations-1.2.2",
-    "ScheduleLua-BarsTweaks-1.0.1",
-    "ScheduleLua-ScheduleLua-0.1.5",
-    "synq-PlayerNotifications-1.0.0",
     "ToPin060-StackBaseUnitShop-2.0.0",
     "XO_WithSauce-CashDrops_MONO-1.2.0"
   ]
