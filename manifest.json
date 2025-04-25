@@ -1,25 +1,25 @@
 {
   "name": "OCGN_ModPack",
-  "version_number": "0.1.1",
+  "version_number": "0.1.3",
   "website_url": "https://github.com/ripsnortntear/OCGN_ModPack_Schedule_1",
   "description": "ModPack for Oldsmar Chaos Gaming Networks Schedule 1",
   "dependencies": [
-    "animandan-AlwaysShowDistancesOnCompass-1.0.0",
-    "ArchieN-NoLazyWorkers-1.0.1",
+    "ArchieN-NoLazyWorkers-1.1.3",
     "ArchieN-TopShelfBonus-1.0.0",
-    "assPunk-moreThings-1.1.6",
-    "ayteeate-LoadingDockFix-1.0.0",
     "BSRmods-CasinoPlus-0.8.7",
-    "BrandS-JustEnoughDrugs-1.3.0",
-    "cathair-ATMDepositLimitMod-1.0.0",
+	  "cathair-ATMDepositLimitMod-1.0.0",
+    "cathair-MaxCashPerSlot-1.0.0",
     "DooDesch-RepairRV-1.0.1",
     "Estonia-CustomStackSizes-1.0.3",
-    "GreenCarrot-MoreDeals-1.0.1",
+    "Estonia-Schedule2-1.0.2",
+    "GreenCarrot-MoreDeals-1.0.3",
+    "GrumpyCrouton-StrongerMultidrag-1.0.0",
     "hostileonion-SimpleMinimap-1.4.0",
+    "KaBooMa-S1API-1.3.1",
     "LavaGang-MelonLoader-0.7.0",
-    "My_man_Spood-Spoods_Mono_Larger_Trash_Can_Radius-1.0.1",
-    "Puffed-BetterChemStations-1.2.2",
-    "ToPin060-StackBaseUnitShop-2.0.0",
-    "XO_WithSauce-CashDrops_MONO-1.2.0"
+    "NanobotZ-CrossProperty_Transportation_Mono-1.0.1",
+    "ScheduleLua-ScheduleLua-0.1.5",
+    "XO_WithSauce-CashDrops_MONO-1.2.0",
+    "ayteeate-LoadingDockFix-1.0.0"
   ]
 }
