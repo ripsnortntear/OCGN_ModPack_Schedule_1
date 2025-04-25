@@ -1,5 +1,7 @@
 # Changelog
 
+## [0.1.3] - Remove errored mods and replaced with better.
+
 ## [0.1.1] - Updated dependencies and version numbers
 
 ## [0.1.0] - Updated to Mono
