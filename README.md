@@ -32,35 +32,39 @@ To install the OCGN ModPack, follow these steps:
 
 This mod pack includes the following dependencies:
 
-- [Always Show Distances On Compass](https://thunderstore.io/c/schedule-i/p/animandan/AlwaysShowDistancesOnCompass/) / https://www.nexusmods.com/schedule1/mods/245
-
 - [ATM Deposit Limit Mod](https://thunderstore.io/c/schedule-i/p/cathair/ATMDepositLimitMod/)
-
-- [BetterChemStations](https://thunderstore.io/c/schedule-i/p/Puffed/BetterChemStations/) / https://github.com/trpipher/BetterChemStations
 
 - [Cash Drops](https://thunderstore.io/c/schedule-i/p/XO_WithSauce/CashDrops_MONO/) / https://github.com/XOWithSauce/schedule-cashdrops
 
 - [Casino Plus](https://thunderstore.io/c/schedule-i/p/BSRmods/CasinoPlus/) / https://github.com/bigricksosa/CasinoPlusMono
 
+- [CrossProperty Transportation Mono](https://thunderstore.io/c/schedule-i/p/NanobotZ/CrossProperty_Transportation_Mono/) / 
+
 - [Custom Stack Sizes](https://thunderstore.io/c/schedule-i/p/Estonia/CustomStackSizes/)
 
-- [Just Enough Drugs](https://thunderstore.io/c/schedule-i/p/BrandS/JustEnoughDrugs/) / https://github.com/BrandSEPI/Schedule-JED
-
 - [Loading Dock Fix](https://thunderstore.io/c/schedule-i/p/ayteeate/LoadingDockFix/)
+
+- [Max Cash Per Slot](https://thunderstore.io/c/schedule-i/p/cathair/MaxCashPerSlot/) / 
 
 - [Melon Loader](https://thunderstore.io/c/schedule-i/p/LavaGang/MelonLoader/) / https://github.com/LavaGang/MelonLoader
 
 - [More Deals](https://thunderstore.io/c/schedule-i/p/GreenCarrot/MoreDeals/)
 
-- [More Things](https://thunderstore.io/c/schedule-i/p/assPunk/moreThings/) / https://github.com/masterxxstabs/moreThings/tree/master
-
 - [No Lazy Workers](https://thunderstore.io/c/schedule-i/p/ArchieN/NoLazyWorkers/) / https://github.com/archenovalis/NoLazyWorkers
 
 - [Repair RV](https://thunderstore.io/c/schedule-i/p/DooDesch/RepairRV/)
 
+- [S1API](https://thunderstore.io/c/schedule-i/p/KaBooMa/S1API/) / https://github.com/KaBooMa/S1API
+
+- [Schedule 2](https://thunderstore.io/c/schedule-i/p/Estonia/Schedule2/) /
+
+- [ScheduleLua](https://thunderstore.io/c/schedule-i/p/ScheduleLua/ScheduleLua/) / https://github.com/ScheduleLua
+
 - [Simple Minimap](https://thunderstore.io/c/schedule-i/p/hostileonion/SimpleMinimap/)
 
 - [Spoods Mono Larger Trash Can Radius](https://thunderstore.io/c/schedule-i/p/My_man_Spood/Spoods_Mono_Larger_Trash_Can_Radius/) / https://github.com/My-man-Spood/Schedule1Mods
+
+- [Stronger Multidrag](https://thunderstore.io/c/schedule-i/p/GrumpyCrouton/StrongerMultidrag/) /
 
 - [Top Shelf Bonus](https://thunderstore.io/c/schedule-i/p/ArchieN/TopShelfBonus/) / https://github.com/archenovalis/TopShelfBonus
 
