@@ -1,5 +1,7 @@
 # Changelog
 
+## [0.1.4] - Added area grabber for trash and employee lockers now work
+
 ## [0.1.3] - Remove errored mods and replaced with better.
 
 ## [0.1.1] - Updated dependencies and version numbers
