@@ -4,7 +4,6 @@
   "website_url": "https://github.com/ripsnortntear/OCGN_ModPack_Schedule_1",
   "description": "ModPack for Oldsmar Chaos Gaming Networks Schedule 1",
   "dependencies": [
-    "ArchieN-NoLazyWorkers-1.1.3",
     "ArchieN-TopShelfBonus-1.0.0",
     "BSRmods-CasinoPlus-0.8.7",
     "cathair-ATMDepositLimitMod-1.0.0",
@@ -12,14 +11,14 @@
     "DooDesch-RepairRV-1.0.1",
     "Estonia-CustomStackSizes-1.0.3",
     "Estonia-Schedule2-1.0.2",
-    "GreenCarrot-MoreDeals-1.0.3",
     "GrumpyCrouton-StrongerMultidrag-1.0.0",
     "hostileonion-SimpleMinimap-1.4.0",
     "KaBooMa-S1API-1.3.1",
     "LavaGang-MelonLoader-0.7.0",
+    "MaxtorCoder-EmployeeLockers_Melon-1.0.3",
+    "NanobotZ-AreaTrashGrabber_Mono-1.0.0",
     "NanobotZ-CrossProperty_Transportation_Mono-1.0.1",
     "ScheduleLua-ScheduleLua-0.1.5",
-    "XO_WithSauce-CashDrops_MONO-1.2.0",
-    "ayteeate-LoadingDockFix-1.0.0"
+    "XO_WithSauce-CashDrops_MONO-1.2.0"
   ]
 }
