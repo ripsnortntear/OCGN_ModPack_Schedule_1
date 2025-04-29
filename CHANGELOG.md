@@ -1,5 +1,7 @@
 # Changelog
 
+## [0.1.5] - Added No lazy workers. Now that the handlers can live anywhere and put things anywhere its time to farm up coke and move to the moxing stage.
+
 ## [0.1.4] - Added area grabber for trash and employee lockers now work
 
 ## [0.1.3] - Remove errored mods and replaced with better.
