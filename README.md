@@ -32,7 +32,9 @@ To install the OCGN ModPack, follow these steps:
 
 This mod pack includes the following dependencies:
 
-- [ATM Deposit Limit Mod](https://thunderstore.io/c/schedule-i/p/cathair/ATMDepositLimitMod/)
+- [Area Trash Grabber](https://thunderstore.io/c/schedule-i/p/NanobotZ/AreaTrashGrabber_Mono/) / 
+
+- [ATM Deposit Limit Mod](https://thunderstore.io/c/schedule-i/p/cathair/ATMDepositLimitMod/) /
 
 - [Cash Drops](https://thunderstore.io/c/schedule-i/p/XO_WithSauce/CashDrops_MONO/) / https://github.com/XOWithSauce/schedule-cashdrops
 
@@ -40,17 +42,17 @@ This mod pack includes the following dependencies:
 
 - [CrossProperty Transportation Mono](https://thunderstore.io/c/schedule-i/p/NanobotZ/CrossProperty_Transportation_Mono/) / 
 
-- [Custom Stack Sizes](https://thunderstore.io/c/schedule-i/p/Estonia/CustomStackSizes/)
+- [Custom Stack Sizes](https://thunderstore.io/c/schedule-i/p/Estonia/CustomStackSizes/) /
 
-- [Loading Dock Fix](https://thunderstore.io/c/schedule-i/p/ayteeate/LoadingDockFix/)
+- [Employee Lockers](https://thunderstore.io/c/schedule-i/p/MaxtorCoder/EmployeeLockers_Melon/) /
 
 - [Max Cash Per Slot](https://thunderstore.io/c/schedule-i/p/cathair/MaxCashPerSlot/) / 
 
 - [Melon Loader](https://thunderstore.io/c/schedule-i/p/LavaGang/MelonLoader/) / https://github.com/LavaGang/MelonLoader
 
-- [More Deals](https://thunderstore.io/c/schedule-i/p/GreenCarrot/MoreDeals/)
-
 - [No Lazy Workers](https://thunderstore.io/c/schedule-i/p/ArchieN/NoLazyWorkers/) / https://github.com/archenovalis/NoLazyWorkers
+
+- [Ragdolls Dont Disappear](https://thunderstore.io/c/schedule-i/p/johnswag/RagdollsDontDisappear/) / https://discord.gg/aNc2vNk7Ub
 
 - [Repair RV](https://thunderstore.io/c/schedule-i/p/DooDesch/RepairRV/)
 
@@ -62,9 +64,7 @@ This mod pack includes the following dependencies:
 
 - [Simple Minimap](https://thunderstore.io/c/schedule-i/p/hostileonion/SimpleMinimap/)
 
-- [Spoods Mono Larger Trash Can Radius](https://thunderstore.io/c/schedule-i/p/My_man_Spood/Spoods_Mono_Larger_Trash_Can_Radius/) / https://github.com/My-man-Spood/Schedule1Mods
-
-- [Stronger Multidrag](https://thunderstore.io/c/schedule-i/p/GrumpyCrouton/StrongerMultidrag/) /
+- [Stronger Multidrag](https://thunderstore.io/c/schedule-i/p/GrumpyCrouton/StrongerMultidrag/) / 
 
 - [Top Shelf Bonus](https://thunderstore.io/c/schedule-i/p/ArchieN/TopShelfBonus/) / https://github.com/archenovalis/TopShelfBonus
 
